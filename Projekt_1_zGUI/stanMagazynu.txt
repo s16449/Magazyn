@@ -1,0 +1,31 @@
+!=-_Stan Magazynu_-=!
+
+Stan magazynowy na dzien 2018-05-21
+
+Dane najemcow: 
+
+Imie: Krzysztof Nazwisko: Sosnowski , Nr pesel: 790423200246 , Adres zamieszkania: Dzieci Warszawy 19/67 kod 12-364 , Data urodzenia: 23-04-1979
+
+------------Powyzszy najemca wynajmuje nastepujace pomieszczenia: ------------
+
+Pomieszczenie nr: 3 o rozmiarze 13499 m3. , Pomieszczenie najemca wynajal 123 dni.  Data wynajecia: 2018-05-19 , Pozostalo jeszcze: 121 dni do konca wynajmu
+
+
+Pomieszczenie zawiera nastepujace przedmioty: 
+
+Przedmiot: samochod , Wielkosc przedmiotu: 1000
+
+Przedmiot: klatka , Wielkosc przedmiotu: 285
+
+------------------------------------------------------------------------------
+Pomieszczenie nr: 4 o rozmiarze 69667 m3. , Pomieszczenie najemca wynajal 23542 dni.  Data wynajecia: 2018-05-18 , Pozostalo jeszcze: 23539 dni do konca wynajmu
+
+------------------------------------------------------------------------------
+
+Imie: Patryk Nazwisko: Modzelewski , Nr pesel: 82051234246 , Adres zamieszkania: Opaczewska 12/5 kod 02-224 , Data urodzenia: 12-05-1982
+
+------------Powyzszy najemca wynajmuje nastepujace pomieszczenia: ------------
+
+Pomieszczenie nr: 2 o rozmiarze 2382 m3. , Pomieszczenie najemca wynajal 123 dni.  Data wynajecia: 2018-05-18 , Pozostalo jeszcze: 117 dni do konca wynajmu
+
+------------------------------------------------------------------------------
